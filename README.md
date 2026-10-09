@@ -11,8 +11,8 @@ Team project. Team: 9
 |---|---|---|
 | Imen Benadda | Data lead | `<@handle>` |
 | Salar Azadani | Modelling lead | @Salar-MTL |
-| Justin Riffou | Interface lead | `<@handle>` |
-| Momina Ejaz | Writing lead | `<@handle>` |
+| Justin Riffou | Interface lead | @jriffou |
+| Momina Ejaz | Writing lead | @mominae-ui |
 
 Every member contributes to code and manuscript; roles indicate who is accountable for each area. A CRediT contribution statement is in [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
