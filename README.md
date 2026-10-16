@@ -9,7 +9,7 @@ Team project. Team: 9
 
 | Member | Role | GitHub |
 |---|---|---|
-| Imen Benadda | Data lead | `<@imenbenadda>` |
+| Imen Benadda | Data lead | @Imenbenadda |
 | Salar Azadani | Modelling lead | @Salar-MTL |
 | Justin Riffou | Interface lead | @Jriffou |
 | Momina Ejaz | Writing lead | @Mominae-ui |
